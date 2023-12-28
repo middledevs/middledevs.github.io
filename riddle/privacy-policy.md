@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Effective Date: 5/9/2023
+Effective Date: 29/12/2023
 
-Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "MathiMatrix").
+Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "RiddleMyImages").
 
 ## Information We Collect
 
