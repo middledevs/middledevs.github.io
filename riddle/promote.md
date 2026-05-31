@@ -1,1 +1,6 @@
-{}
+{
+                "banner": "https://q.middledevs.com/images/halal-riddles.png",
+                "title": "Halal Riddles",
+                "description": "Try our new Game that combines fun and Islamic knowledge!",
+                "url": "https://play.google.com/store/apps/details?id=com.middledevs.halalriddles",
+            }
